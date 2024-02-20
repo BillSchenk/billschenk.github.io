@@ -14,14 +14,13 @@ experiences:
     name: HireVue
     url: "https://www.hirevue.com"
     #location: Remote
-    overview: 
+    overview: Deployment, configuration, and management of a global infrastructure of cloud services to support the HireVue platforms using DevOps tools and automation.
   positions:
   - designation: Sr. Infrastructure Engineer
     start: January 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
-    overview: Deployment, configuration, and management of a global infrastructure of cloud services to support the HireVue platforms using DevOps tools and automation.
     responsibilities:
     - Deployment, configuration, and management of a global infrastructure of AWS services to support the HireVue platforms.
     - Monitor and maintain systems and services using cloud monitoring and logging tools
