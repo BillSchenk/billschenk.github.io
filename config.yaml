@@ -95,8 +95,6 @@ params:
     # Enable & configure "Notes" features
     notes:
       enable: false
-    darkMode:
-      enable: true
 
     # Enable comment feature. There, should be only one of them.
     comment:
