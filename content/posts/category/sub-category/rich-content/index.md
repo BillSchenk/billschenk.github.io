@@ -9,6 +9,8 @@ menu:
     parent: sub-category
     weight: 10
 hero: images/forest.jpg
+tags: ["Markdown","Content Organization","Multi-lingual"]
+categories: ["Basic"]
 ---
 
 This sample post tests the followings:
@@ -25,7 +27,7 @@ This sample post tests the followings:
 
 ### Tweet Sample
 
-{{/*< twitter 1085870671291310081 >*/}}
+{{< tweet user="SanDiegoZoo" id="1453110110599868418" >}}
 
 {{< vs >}}
 

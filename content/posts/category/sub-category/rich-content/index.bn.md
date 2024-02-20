@@ -8,6 +8,8 @@ menu:
     identifier: rich-content
     parent: sub-category
     weight: 10
+tags: ["মার্কডাউন","কন্টেন্ট সাজানো","বহুভাষিক"]
+categories: ["বেসিক"]
 ---
 
 এই নমুনা পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ
@@ -24,7 +26,7 @@ menu:
 
 ### টুইটের নুমুনা
 
-{{/*< twitter 1085870671291310081 >*/}}
+{{< tweet user="SanDiegoZoo" id="1453110110599868418" >}}
 
 {{< vs >}}
 

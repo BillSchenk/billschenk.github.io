@@ -8,14 +8,14 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
     # checkout to the commit that has been pushed
-    - uses: actions/checkout@v2.3.4
+    - uses: actions/checkout@v3
       with:
         submodules: true  # Fetch Hugo themes (true OR recursive)
         fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
     
     # install Hugo
     - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2.4.13
+      uses: peaceiris/actions-hugo@v2.5.0
       with:
         hugo-version: 'latest'
         extended: true
@@ -25,7 +25,7 @@ jobs:
       run: hugo --minify
     
     # Run HTML Proofer
-    - uses: anishathalye/proof-html@v1.2.0
+    - uses: anishathalye/proof-html@v1.4.1
       with:
         directory: ./public
         enforce_https: false
