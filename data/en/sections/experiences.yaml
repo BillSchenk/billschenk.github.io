@@ -16,10 +16,15 @@ experiences:
     #location: Remote
     overview: Deployment, configuration, and management of a global infrastructure of cloud services to support the HireVue platforms using DevOps tools and automation.
   positions:
+  - designation: Lead Cloud Engineer
+    start: October 2024
+    responsibilities:
+      - Team Lead of Cloud Engineering Core team responsible for high-level architecture and infrastructure planning, deployment, and design.
+      - Management of a multi-platform system spread across AWS, Azure, and GCP.
   - designation: Sr. Infrastructure Engineer
     start: January 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: September 2024
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Manage and remediate issues related to ISO27001, SOC2 and FedRAMP Audits
