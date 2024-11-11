@@ -103,11 +103,11 @@ params:
         shortName: toha-example-site
 
     # Enable Analytics
-    analytics:
-      enabled: true
+    #analytics:
+      #enabled: true
       # Google Analytics
-      google:
-        id: G-H4LBG7NDFZ
+      #google:
+      #  id: G-H4LBG7NDFZ
       # # CounterDev
       # counterDev:
       #   id: <your counterdev id>
