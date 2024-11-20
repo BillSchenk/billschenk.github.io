@@ -1,17 +1,19 @@
 # some information about you
-name: "Bill Schenk"
-nickname: "Bill"
+name: 'Bill Schenk'
+nickname: 'Bill'
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
-image: "images/author/john.png"
+greeting: 'Hi, I am'
+image: 'images/author/john.png'
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "bill@schenk.tech"
+  email: 'bill@schenk.tech'
   #phone: "+0123456789"
 
 # some summary about what you do
 summary:
-  - I am an Infrastructure Engineer
+  - I am a Cloud Engineer
+  - Homelabs are Awesome!
   - I am a Systems Engineer
   - I love learning new tech
-  - Homelabs are Awesome!
+  - I am an Infrastructure Engineer
+  - Automation always in all ways!
